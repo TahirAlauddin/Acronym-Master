@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-docx = "*"
+spacy = "*"
+fuzzywuzzy = "*"
+numpy = "*"
+pyqt5 = "*"
+scispacy = "*"
+pyinstaller = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

@@ -1,0 +1,19 @@
+# Archives
+*.zip
+
+# Advanced Installer
+*.aip
+
+# All Documents
+*.docx
+# Except
+!document.docx
+
+# pyinstaller
+dist
+build
+
+# ENV
+.env
+*env
+*.spec

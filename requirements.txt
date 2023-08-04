@@ -1,0 +1,5 @@
+python-docx
+scispacy
+spacy
+fuzzywuzzy
+PyQt5

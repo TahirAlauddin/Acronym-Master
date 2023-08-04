@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/check.png</file>
+    <file>images/file-type.png</file>
+    <file>images/file-type-1.png</file>
+    <file>images/upload-cloud.png</file>
+    <file>images/background.jpeg</file>
+    <file>images/logo.webp</file>
+    <file>images/logo.png</file>
+  </qresource>
+</RCC>
